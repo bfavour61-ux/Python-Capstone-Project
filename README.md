@@ -1,4 +1,5 @@
 🚍 Optimizing Public Transit Operations — MetroMove EDA
+
 📘 Project Overview
 This project performs an Exploratory Data Analysis (EDA) on MetroMove Transit Solutions' public transportation data.
 The goal is to uncover insights into passenger behavior, fare trends, and operational performance to help the company make data-driven decisions that improve efficiency and customer satisfaction.
